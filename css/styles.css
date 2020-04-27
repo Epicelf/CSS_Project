@@ -1,0 +1,167 @@
+body {
+  color:#40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover{
+  color: #eaf6f6;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 3%;
+  border-color: #d1d1d1;
+  border-width: 5px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  position: relative;
+  padding-top: 50px;
+}
+
+.picture_profile {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin-left: 20px;
+}
+
+.Excel_image {
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.SAP_image {
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-bottom: 20px;
+  position: relative;
+  width: 100%
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 40px;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.role {
+  width: 25%;
+  margin: 50px auto 100px;
+  line-height: 2;
+}
+
+.skill_intro {
+  margin: 100px auto;
+}
+
+.btn {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 10px;
+  background-color: #11999E;
+  border: double #11999E 5px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  border: solid 1px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.footer-link {
+  padding-top: 50px;
+  display: inline-block;
+  width: 100px;
+  padding-left: 10px;
+  font-weight: 900;
+}
+
+.signature {
+  color: #EAF6F6;
+  margin: 50px auto 30px;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.contact-me {
+  margin-bottom: 100px;
+}
+
+.final_text {
+  padding-bottom: 30px;
+}
+
+.get_in_touch {
+  margin-top: 100px;
+}
